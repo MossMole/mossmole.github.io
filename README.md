@@ -1,2 +1,0 @@
-# mossmole.github.io
-blogs
