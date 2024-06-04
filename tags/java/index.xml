@@ -10,10 +10,10 @@
     <atom:link href="https://mossmole.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>笔记归档</title>
-      <link>https://mossmole.github.io/posts/java%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
+      <link>https://mossmole.github.io/posts/1/java%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
       <pubDate>Tue, 04 Jun 2024 23:33:03 +0800</pubDate>
-      <guid>https://mossmole.github.io/posts/java%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</guid>
-      <description>Java思维导图.pdf</description>
+      <guid>https://mossmole.github.io/posts/1/java%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</guid>
+      <description>sample.pdf</description>
     </item>
   </channel>
 </rss>
